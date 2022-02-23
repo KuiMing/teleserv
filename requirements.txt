@@ -8,5 +8,5 @@ line-bot-sdk
 azure-cognitiveservices-vision-computervision
 imgur-python
 Pillow
-markupsafe
+markupsafe==2.0.1
 
