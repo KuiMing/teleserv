@@ -9,4 +9,5 @@ azure-cognitiveservices-vision-computervision
 imgur-python
 Pillow
 markupsafe==2.0.1
+python-telegram-bot==10.1.0
 
