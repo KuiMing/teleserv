@@ -29,7 +29,7 @@ def callback() -> str:
     return 'ok'
 
 
-def reply_handler(update) -> None:
+def reply_handler(bot, update) -> None:
     text = update.message.text
     update.message.reply_text(text)
 
